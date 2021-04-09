@@ -1,0 +1,4 @@
+.data/
+
+seq2seq_translation/runs/
+seq2seq_translation/my_checkpoint.pth.tar
